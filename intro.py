@@ -1,5 +1,7 @@
 # importing required function
 from avg import avg
+import math
+x= math.e
 
 info = []  # list for storing info of students
 
