@@ -10,4 +10,4 @@ def si(principal, year, rate):
     return simple
 
 
-print(si(1000, 2, 12))
+
